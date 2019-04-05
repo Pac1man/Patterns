@@ -17,4 +17,15 @@ public abstract class Human {
         profession.work();
     }
 
+    void choise(){
+        profession.work();
+    }
+
+    void setProfession(Profession profess){
+        profession = profess;
+    }
+    void setLiveStatus(LiveStatus live){
+        liveStatus = live;
+    }
+
 }

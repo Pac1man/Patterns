@@ -5,8 +5,9 @@ public class MainLife {
     public static void main(String[] args) {
 
         Human Oleg = new StandartHuman();
-        Oleg.speak();
+        Oleg.setLiveStatus(new AloneLife());
         Oleg.someLife();
-    }
+        Oleg.speak();
 
+    }
 }
