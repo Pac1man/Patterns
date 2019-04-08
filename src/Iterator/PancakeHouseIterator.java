@@ -17,9 +17,9 @@ public class PancakeHouseIterator implements  Iterator{
         } return  true;
     }
 
-    public Object next(){
-        menuItem.get(position);
+    public Object next() {
+        Object menuItem1 = menuItem.get(position);
         position++;
-        return menuItem;
+        return menuItem1;
     }
 }
