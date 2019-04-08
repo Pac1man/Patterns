@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.OwnIterator;
 
 import java.util.ArrayList;
 
@@ -7,7 +7,6 @@ public class PancakeHouseMenu {
 
     public PancakeHouseMenu(){
         menuItems = new ArrayList();
-
         addItem("KB", "something", true, 2.11);
         addItem("Pancake", "something", true, 2.1);
         addItem("Waffles", "something", true, 1);

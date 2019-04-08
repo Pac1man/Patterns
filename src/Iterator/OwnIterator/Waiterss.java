@@ -1,6 +1,4 @@
-package Iterator;
-
-import java.util.ArrayList;
+package Iterator.OwnIterator;
 
 public class Waiterss {
     PancakeHouseMenu pancakeHouseMenu;

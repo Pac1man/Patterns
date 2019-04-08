@@ -1,6 +1,4 @@
-package Iterator;
-
-import java.awt.*;
+package Iterator.OwnIterator;
 
 public class DinerMenu {
     static  final int MAX_ITEMS = 6;

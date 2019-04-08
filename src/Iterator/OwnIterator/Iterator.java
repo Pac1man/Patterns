@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.OwnIterator;
 
 public interface Iterator {
     boolean hasNext();

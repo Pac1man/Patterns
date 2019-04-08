@@ -1,4 +1,4 @@
-package Iterator;
+package Iterator.OwnIterator;
 
 public class MenuTestDrive {
     public static void main(String[] args) {
